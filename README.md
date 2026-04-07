@@ -26,7 +26,7 @@ A simple Slack bot built with Node.js and the [Bolt framework](https://slack.dev
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone  https://github.com/AleleChi/slack-bot.git
 cd your-repo-name
 ```
 
